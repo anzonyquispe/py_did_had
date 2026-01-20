@@ -19,12 +19,8 @@ This is a Python port of the official Stata package [`did_had`](https://github.c
 ## Installation
 
 ```bash
+pip install nprobust
 pip install did-had
-```
-
-For plotting support:
-```bash
-pip install did-had[plot]
 ```
 
 ## Quick Start
